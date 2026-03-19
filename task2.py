@@ -1,6 +1,5 @@
 import json
 file_name="data.json"
-# Load the data back from the file
 
 def print_library(lib):
     print("Library context")

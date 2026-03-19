@@ -1,7 +1,7 @@
 try:
     begin, end = map(int, input().split())
 except ValueError:
-    print("")
+    print("wrong values, expected: int_begin int_end")
     exit()
 
 otvet = [] 
